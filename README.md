@@ -15,10 +15,10 @@ This is a simple machine learning project created entirely for educational purpo
 
 ## How to Run Locally
 1. Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Holisher1/kepler-exoplanet-classification
 
 2. Navigate to the project directory:
-cd your-repo-name
+cd kepler-exoplanet-classification
 
 3. Install the required dependencies:
 pip install -r requirements.txt
